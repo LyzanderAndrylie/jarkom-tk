@@ -8,12 +8,12 @@ Masing-masing file tugas akan berada pada folder yang sesuai.
 
 ## A04
 
-Tulis *command-command* yang digunakan untuk melakukan konfigurasi router, device, dll pada `A04/command.txt`. Format Penulisan adalah sebagai berikut.
+Tulis *command-command* yang digunakan untuk melakukan konfigurasi router, device, dll pada `A04/command.md`. Format Penulisan adalah sebagai berikut.
 
 ```text
-// <judul_bagian>
+## <judul_bagian>
 
-// <nama_perangkat_yang_dikonfigurasi>
+### <nama_perangkat_yang_dikonfigurasi>
 
 command1
 command2
@@ -29,9 +29,9 @@ commandN
 Centang *checkbox* di bawah apabila telah selesai dikerjakan.
 
 - Topologi
-  - [ ] Hasil Topologi di Cisco Packet Tracer
-  - [ ] Alokasi Alamat IP Subnet Jaringan Privat
-  - [ ] Alokasi Alamat IP Subnet End Device
+  - [X] Hasil Topologi di Cisco Packet Tracer
+  - [X] Alokasi Alamat IP Subnet Jaringan Privat
+  - [X] Alokasi Alamat IP Subnet End Device
   - [ ] Tes Konektivitas
 - Analisis Jaringan
   - [ ] Ketahanan Jaringan
