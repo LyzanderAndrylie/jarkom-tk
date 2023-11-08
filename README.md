@@ -32,12 +32,12 @@ Centang *checkbox* di bawah apabila telah selesai dikerjakan.
   - [X] Hasil Topologi di Cisco Packet Tracer
   - [X] Alokasi Alamat IP Subnet Jaringan Privat
   - [X] Alokasi Alamat IP Subnet End Device
-  - [ ] Tes Konektivitas
+  - [X] Tes Konektivitas
 - Analisis Jaringan
-  - [ ] Ketahanan Jaringan
-  - [ ] Konfigurasi Alamat IP (DHCP)
-  - [ ] Jaringan Publik - Privat (Implementasi NAT)
-  - [ ] DNS (Domain Name Server) dan HTTP
-    - [ ] Setup Web
-    - [ ] Setup DNS
-    - [ ] Analisis
+  - [X] Ketahanan Jaringan
+  - [X] Konfigurasi Alamat IP (DHCP)
+  - [X] Jaringan Publik - Privat (Implementasi NAT)
+  - [X] DNS (Domain Name Server) dan HTTP
+    - [X] Setup Web
+    - [X] Setup DNS
+    - [X] Analisis
